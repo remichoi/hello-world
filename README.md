@@ -1,6 +1,6 @@
 # hello-world
 Host ideas for future projects.
 
-+ OSWIN: Offline Shell-based Work-Management Itinerary Navigator
++ (C) OSWIN: Offline Shell-based Work-Management Itinerary Navigator
 
-+ grades-calculator
++ (python) grades-calculator
