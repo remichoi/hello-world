@@ -1,6 +1,8 @@
 # hello-world
-Host ideas for future projects.
+Host ideas for **current**/*future* projects.
 
-+ (C) OSWIN: Offline Shell-based Work-Management Itinerary Navigator
-
-+ (python) grades-calculator
++ **(ruby) OSWIN: Offline Shell-based Work-Management Itinerary Navigator  
++ *(web dev) self-development/accessible education blog -- art, coding, deduction, psyc, piano, reading, writing  
++ *(python) grades-calculator  
++ *(???) turn audio to sheet music  
++ *(???) track eye movements to crop wallpapers from image files  
