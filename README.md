@@ -5,6 +5,5 @@ Host ideas for personal projects.
 | ---------- | ---------------------------------------------------------- | -------------- |
 | OSWIN      | Offline Shell-based Work-Management Itinerary Navigator    | Ruby           |
 | Gnosis     | self-development blog -- coding, deduction, psyc, language | front end      |
-| ...        | flexible grades-calculator                                 | Python         |
-| Apollo     | music library (Winamp, iTunes, Spotify, Pandora, 8Tracks)  | ...            |
-| ...        | learn 1000 kanji more easily (memorization technique)      | ...            |
+| Unknown    | Unknown                                                    | Unknown        |
+
